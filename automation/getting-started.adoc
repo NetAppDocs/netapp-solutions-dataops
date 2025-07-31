@@ -1,0 +1,42 @@
+---
+sidebar: sidebar
+permalink: automation/getting-started.html
+summary: NetApp solutions automation enables the customer to automate the deployment, configuration and execution of many common infrastructure and application tasks.
+keywords: netapp, awx, tower, ansible tower, solutions, automation, ansible, getting, started
+---
+
+= Getting Started with NetApp solution automation
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ../media/
+
+[.lead]
+NetApp solution automation provides simplicity and repeatability for many of the common tasks utilized by the NetApp Solutions.
+
+Prior to running any solution automation, the environment must be configured for how the automation will be executed.  There are options to run the automation from the command line or through a tool such as AWX or tower.
+
+The following sections will outline the steps required to configure the environment for each of the specified environments.
+
+.Setup the Ansible Control Node for CLI deployments on RHEL / CentOS
+[%collapsible%open]
+====
+include::../_include/automation-rhel-centos-setup.adoc[tag=steps]
+====
+
+.Setup the Ansible Control Node for CLI deployments on Ubuntu / Debian
+[%collapsible%open]
+====
+include::../_include/automation-ubuntu-debian-setup.adoc[tag=steps]
+====
+
+.Setup Ansible Tower or AWX for Tower / AWX deployments
+[%collapsible%open]
+====
+include::../_include/setup-awx.adoc[tag=steps]
+====
+
+For more information, please visit link:https://netapp.io/2018/10/08/getting-started-with-netapp-and-ansible-install-ansible/[Getting started with NetApp solution automation and Ansible]
+
+To request automation, please fill out the link:https://github.com/NetAppDocs/netapp-solutions/issues/new?body=%5BRequest%20Automation%5D%0d%0a%0d%0aSolution%20Name:%20%0d%0aRequest%20Title:%20%0d%0aDescription:%0d%0aSuggestions:&title=Request%20Automation%20-%20[automation request form].
