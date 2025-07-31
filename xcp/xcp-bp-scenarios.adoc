@@ -1,0 +1,25 @@
+---
+sidebar: sidebar
+permalink: xcp/xcp-bp-scenarios.html
+keywords:
+summary:
+---
+
+= Overview
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ../media/
+
+//
+// This file was created with NDAC Version 2.0 (August 17, 2020)
+//
+// 2021-09-20 14:39:42.281480
+//
+
+[.lead]
+This section describes customer scenarios and their architectures.
+
+
+// NetApp Solutions restructuring (jul 2025) - renamed from xcp/xcp-bp-customer-scenarios-overview.adoc
