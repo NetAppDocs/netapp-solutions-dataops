@@ -1,5 +1,5 @@
 settings:
-  name: "NetApp Data Management solutions"
+  name: "NetApp Dataops solutions"
   internal:
     pdf_enabled: true
     lipi_enabled: true
@@ -22,11 +22,7 @@ sidebar:
       url: /index.html
     - section: data-access
     - section: automation
-#
-    - title: "SAP & SAP HANA"
-      url: https://docs.netapp.com/us-en/netapp-solutions-sap/
-    - title: "FlexPod Solutions"
-      url: https://docs.netapp.com/us-en/flexpod/
+
  #
     - title: "Video Collection"
       url: /videos.html
