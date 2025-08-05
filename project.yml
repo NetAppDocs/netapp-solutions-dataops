@@ -1,5 +1,5 @@
 settings:
-  name: "NetApp Dataops Solutions"
+  name: "NetApp Data Management solutions"
   internal:
     pdf_enabled: true
     lipi_enabled: true
@@ -18,7 +18,7 @@ product-family:
 
 sidebar:
   entries:
-    - title: "Dataops Solutions"
+    - title: "Data Management solutions"
       url: /index.html
     - section: data-access
     - section: automation
