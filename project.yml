@@ -1,5 +1,5 @@
 settings:
-  name: "NetApp Data Management solutions"
+  name: "NetApp data management solutions"
   internal:
     pdf_enabled: true
     lipi_enabled: true
@@ -13,12 +13,12 @@ settings:
     zip-filename: netapp-solutions-dataops.zip
 
 product-family:
-  name: NetApp Solutions
+  name: NetApp solutions
   repo: netapp-solutions-family
 
 sidebar:
   entries:
-    - title: "NetApp Solutions Documentation"
+    - title: "Data management solutions"
       url: /index.html
     - section: data-access
     - section: automation
