@@ -24,10 +24,6 @@ sidebar:
     - section: automation
 
  #
-    - title: "Video Collection"
-      url: /videos.html
-    - title: "Blogs"
-      url: /blogs.html
     - title: "Change Log"
       url: /whats-new.html
     - title: "Legal notices"

@@ -9,10 +9,6 @@ indexpage:
           url: https://docs.netapp.com/us-en/netapp-solutions-family/intro-family.html
         - title: "Change History"
           url: /whats-new.html
-        - title: "Blogs"
-          url: /blogs.html
-        - title: "Videos & Demos"
-          url: /videos.html
         - title: "Legal Notices"
           url: legal-notices.html
 #
