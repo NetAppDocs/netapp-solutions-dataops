@@ -22,6 +22,8 @@ sidebar:
       url: /index.html
     - title: "What's new"
       url: /whats-new.html
+    - section: ontap-cybervault
+    - section: bp-xcp
     - section: data-access
     - section: automation
     - title: "Legal notices"
