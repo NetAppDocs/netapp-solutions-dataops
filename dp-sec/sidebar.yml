@@ -1,5 +1,5 @@
 section: data-access
-title: "Data Migration and Data Protection"
+title: "Data migration and data protection"
 entries:
   - title: "ONTAP cyber vault"
     pdf-filename: "ONTAP cyber vault"
@@ -39,10 +39,10 @@ entries:
         - title: Cyber vault conclusion
           url: /cyber-vault/ontap-cyber-vault-ps-conclusion.html
 #
-  - title: "Data Migration"
+  - title: "Data migration"
     entries:
-      - title: "Best-Practice Guidelines for NetApp XCP"
-        pdf-filename: "Best-Practice Guidelines for NetApp XCP"
+      - title: "Best practice guidelines for NetApp XCP"
+        pdf-filename: "Best practice guidelines for NetApp XCP"
         entries:
           - title: "Introduction"
             url: /xcp/xcp-bp-introduction.html
