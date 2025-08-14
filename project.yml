@@ -20,11 +20,13 @@ sidebar:
   entries:
     - title: "Data management solutions"
       url: /index.html
-    - section: data-access
-    - section: automation
-
- #
-    - title: "Change Log"
+    - title: "What's new"
       url: /whats-new.html
+    - section: ontap-cybervault
+    - section: bp-xcp
+  # - section: data-access
+    - section: automation
+    - title: "Additional resources for data protection and security"
+      url: /protection-security-resources.html
     - title: "Legal notices"
       url: /legal-notices.html
