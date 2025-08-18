@@ -1,14 +1,28 @@
 indexpage:
-  title: # Unquoted string 
-  lead: # Quoted string
-  summary: # Quoted string 
-  keywords: # Unquoted comma-delimited list of keywords 
-  tiles: 
-    # Tile definition 
-    - title: # Quoted or unquoted string
+  title: NetApp data management solutions
+  lead: "NetApp solutions are a set of strategic and technology capabilities that emphasize the NetApp portfolio of products and services to support our customers' most critical business needs."
+  summary: "NetApp solutions are a set of strategic and technology capabilities that emphasize the NetApp portfolio of products and services to support our customers' most critical business needs."
+  tiles:
+    - title: "Get started"
+      links:
+        - title: "What's new"
+          url: /whats-new.html
+    - title: "Data migration and data protection"
       links: 
-        # Link definition
-        - title: # Quoted or unquoted string
-          url: # Path to target
-        # Next link on this tile (title/url pair)
-    # Next tile on this page (title/links)
+        - title: "Protect data with a cyber vault"
+          url: /cyber-vault/ontap-cyber-vault-overview.html
+        - title: "Migrate data with NetApp XCP"
+          url: /xcp/xcp-bp-introduction.html
+    - title: "Solution automation"
+      links:
+        - title: "Introduction"
+          url: /automation/automation-introduction.html
+#
+    - title: "Solution requests and feedback"
+      links:
+        - title: "Request automation"
+          url: https://github.com/NetAppDocs/netapp-solutions/issues/new?body=[Request%20Automation]%0d%0a%0d%0aSolution%20Name:%20%0d%0aRequest%20Title:%20%0d%0aDescription:%0d%0aSuggestions:&title=Request%20Automation%20-%20%3Crequest_title%3E
+        - title: "Propose a new solution"
+          url: https://github.com/NetAppDocs/netapp-solutions/issues/new?body=[Request%20Solution]%0d%0a%0d%0aSolution%20Use%20Case:%20%0d%0aSolution%20Description:%20%0d%0aAdditional%20Comments:&title=Request%20Solution%20-%20%3Csolution%3E
+        - title: "Provide solution feedback"
+          url: https://github.com/NetAppDocs/netapp-solutions/issues/new?body=[Solution%20Feedback]%0d%0a%0d%0aSolution%20Name:%20%0d%0aSolution%20Feedback:%20%0d%0aAdditional%20Comments:&title=Solution%20Feedback%20-%20%3Csolution%3E

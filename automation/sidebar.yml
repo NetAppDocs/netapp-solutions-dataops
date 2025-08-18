@@ -1,0 +1,13 @@
+section: automation
+title: "Solution automation"
+entries:
+  - title: "Introduction"
+    url: /automation/automation-introduction.html
+  - title: "Setup the automation environment"
+    url: /automation/getting-started.html
+  - title: "Gather pre-requisites for CVO and Connector deployments"
+    url: /automation/authentication-tokens.html
+  - title: "Cloud Volumes automation using Terraform"
+    url: /automation/cloud-volumes-terraform.html
+  - title: Amazon FSx for NetApp ONTAP Monitoring and Auto-Resizing using AWS Lambda Function
+    url: /automation/fsxn-monitoring-resizing.html
