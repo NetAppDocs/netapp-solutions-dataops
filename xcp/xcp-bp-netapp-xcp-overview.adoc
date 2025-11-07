@@ -79,7 +79,7 @@ rpcinfo -p < NAS IP or on-prem nfs data LIF ip >
 . Download the XCP license from the https://xcp.netapp.com/license/xcp.xwic[NetApp XCP License Portal^].  
 .. You must have a NetApp account in mysupport.netapp.com or you can register for free.
 .. Download the license and have it ready.
-. Create one NFS share on-premises for each Azure NetApp volume or for the Cloud Volume Service (premium service level) in cloud for the XCP catalog.
+. Create one NFS share on-premises for each Azure NetApp volume or for the Google Cloud NetApp Volumes (premium service level) in cloud for the XCP catalog.
 . Create an NAS volume and configure the share for the data destination.
 . For multiple XCP instances, you must have one or more servers or cloud instances to transfer the data from multiple source folders or files to the destination.
 . The maxdir size (default is 308MB) defines the maximum file count (approximately one million) in a single folder. Increase the maxdir size value to increase the file count. Increasing the value has an effect on additional CPU cycles.
