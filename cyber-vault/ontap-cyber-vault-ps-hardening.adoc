@@ -28,7 +28,7 @@ ONTAP provides a set of controls that allow to harden the ONTAP storage. Use the
 
 === ONTAP CLI or via automation script
 
-. Protect administration with Multi-Admin Verification (MFA)
+. Protect administration with multi-admin verification (MAV) in addition to multifactor authentication (MFA), enhancing security for administrative access to the data storage VM.
 . Enable encryption for standard data "in-flight" between clusters.
 . Secure SSH with strong encryption cipher and enforce secure passwords.
 . Enable global FIPS.
